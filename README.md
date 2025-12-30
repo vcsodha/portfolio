@@ -10,6 +10,8 @@ React
 
 Vite
 
+Javascript
+
 Tailwind CSS
 
 Framer Motion
