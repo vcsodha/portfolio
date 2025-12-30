@@ -16,7 +16,7 @@ function Skills() {
       <div className="mb-14">
         <h2 className="text-4xl font-bold mb-4">Skills</h2>
         <p className="text-slate-300 max-w-2xl">
-          A snapshot of what I’m comfortable building with — focused on backend + systems + applied AI.
+          A snapshot of what I’m comfortable building with - focused on backend + systems + applied AI.
         </p>
       </div>
 

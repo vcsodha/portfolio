@@ -27,7 +27,7 @@ function Education() {
             </p>
 
             <p className="text-slate-500 text-sm mt-1">
-              Jan 2024 – Dec 2025
+              Jan 2024 - Dec 2025
             </p>
 
             <p className="text-slate-300 mt-4">
@@ -47,7 +47,7 @@ Interface, Machine Learning, Operating Systems, Software Design, Software Engine
             </p>
 
             <p className="text-slate-500 text-sm mt-1">
-              2019 – 2023
+              2019 - 2023
             </p>
 
           </div>

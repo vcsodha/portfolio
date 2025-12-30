@@ -6,7 +6,7 @@ function Experience() {
       role: "Engineering Intern",
       company: "Bitmechanix Solutions",
       place: "Ahmedabad, India",
-      period: "Jan 2023 – Apr 2023",
+      period: "Jan 2023 - Apr 2023",
       bullets: [
         "Reviewed simulation workflows and data dependencies to find inefficiencies and repeated processing.",
         "Helped restructure processing stages and data handling logic to reduce manual intervention.",
@@ -18,7 +18,7 @@ function Experience() {
       role: "Developer Intern",
       company: "AceSoftex",
       place: "Rajkot, India",
-      period: "Jun 2022 – Jul 2022",
+      period: "Jun 2022 - Jul 2022",
       bullets: [
         "Implemented small feature updates and bug fixes using JavaScript, Node.js, and MySQL.",
         "Assisted in backend API testing to identify basic performance issues and error cases.",

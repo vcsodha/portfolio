@@ -33,7 +33,7 @@ function Intro() {
             transition={{ delay: 0.2 }}
             className="max-w-2xl text-lg text-slate-300 mb-10"
           >
-            I'm Vidisha Sodha, a Software Engineer who enjoys building clean,
+            Hello, I'm Vidisha Sodha, a Software Engineer who enjoys building clean,
             reliable systems designed to scale. I recently completed my Master's
             in Computer Science from Purdue University, where I focused on backend
             development, databases, system design, and applied machine learning
@@ -60,7 +60,7 @@ function Intro() {
               rel="noreferrer"
               className="rounded-2xl border border-white/10 px-7 py-4 text-slate-200 hover:border-sky-400/60 w-fit"
             >
-              GitHub
+              View GitHub
             </a>
           </div>
 

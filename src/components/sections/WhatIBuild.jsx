@@ -25,7 +25,7 @@ function WhatIBuild() {
           <div className="rounded-3xl border border-white/10 bg-slate-950/40 p-7">
             <p className="text-slate-200 font-semibold mb-1">Analytics & background processing</p>
             <p className="text-slate-400">
-              Rolling windows, deltas, volatility — and workers to keep ingestion stable.
+              Rolling windows, deltas, volatility - and workers to keep ingestion stable.
             </p>
           </div>
 
