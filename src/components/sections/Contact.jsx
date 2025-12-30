@@ -39,7 +39,7 @@ function Contact() {
           <div className="flex flex-col gap-3 text-slate-300">
             <a
               className="hover:text-sky-400"
-              href="/Vidisha_Sodha_Resume.pdf"
+              href="/Vidisha_Sodha_Resume_.pdf"
               target="_blank"
               rel="noreferrer"
             >
