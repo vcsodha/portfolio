@@ -48,7 +48,7 @@ function Intro() {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="#work"
+              href="#projects"
               className="rounded-2xl bg-sky-400 px-7 py-4 text-black font-medium w-fit"
             >
               Projects
