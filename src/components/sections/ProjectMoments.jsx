@@ -95,6 +95,20 @@ function ProjectMoments() {
           link="https://github.com/vcsodha/ai-chatbot-flask"
           demo="https://ai-chatbot-flask-5p5h.onrender.com/ui"
         />
+
+        <FeaturedProject
+          title="Resume Match Analyzer"
+          desc="Full-stack web app that evaluates resume–job fit using skill extraction, weighted scoring, and actionable feedback."
+          bullets={[
+            "Extracts and normalizes technical skills from resumes and job descriptions",
+            "Weighted scoring based on required vs preferred skills",
+            "Generates improvement suggestions and downloadable PDF reports",
+          ]}
+          tech="Python · FastAPI · JavaScript · React · HTML · CSS · Groq LLM API"
+          link="https://github.com/vcsodha/resume_analyzer"
+          demo="https://resume-analyzer-2r8n.onrender.com"
+        />
+
       </div>
       <div>
         <h3 className="text-2xl font-semibold mb-8 text-slate-200">

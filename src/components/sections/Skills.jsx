@@ -7,7 +7,7 @@ function Skills() {
     { title: "Databases", items: ["PostgreSQL", "MySQL", "MongoDB", "SQL"] },
     { title: "System & Infra", items: ["Docker", "AWS", "Linux", "Git", "CI/CD"] },
     { title: "Core CS", items: ["DSA", "OOP", "Concurrency", "Operating Systems"] },
-    { title: "Data & AI", items: ["Pandas", "NumPy", "Scikit-learn", "LLM APIs"] },
+    { title: "Data & AI", items: ["Pandas", "NumPy", "Scikit-learn", "LLM APIs", "ReportLab"] },
   ]
 
   return (
