@@ -7,7 +7,7 @@ function Contact() {
         <div>
           <h2 className="text-4xl font-bold mb-4">Contact</h2>
           <p className="text-slate-300 max-w-xl">
-            If you’re hiring for backend / platform / software roles, I’d love to connect.
+            If you’re hiring for backend / full-stack / software roles, I’d love to connect.
             The fastest way is email.
           </p>
 
@@ -51,7 +51,7 @@ function Contact() {
               target="_blank"
               rel="noreferrer"
             >
-              Market Data Platform repo
+              Data Integration, Analytics & Monitoring Platform
             </a>
             <a
               className="hover:text-sky-400"
@@ -59,7 +59,7 @@ function Contact() {
               target="_blank"
               rel="noreferrer"
             >
-              AI Chatbot repo
+              AI Chatbot 
             </a>
           </div>
 

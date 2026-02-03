@@ -13,7 +13,7 @@ function Intro() {
             transition={{ delay: 0.15 }}
             className="text-sm uppercase tracking-[0.25em] text-sky-400/90 mb-6"
           >
-            Software Engineer · Backend Engineer · Systems · AI Apps
+            SOFTWARE ENGINEER · BACKEND & FULL-STACK · SYSTEMS · APPLIED AI
           </motion.p>
 
           <motion.h1
@@ -22,9 +22,9 @@ function Intro() {
             transition={{ duration: 0.75 }}
             className="text-5xl sm:text-6xl font-bold leading-[1.05] mb-7"
           >
-            Building <span className="text-sky-400">reliable software</span>{" "}
+            I build <span className="text-sky-400">APIs, data pipelines, and end-to-end features designed</span>{" "}
             <br className="hidden sm:block" />
-            for real-world systems.
+            for correctness, reliability, and scale.
           </motion.h1>
 
           <motion.p
@@ -65,7 +65,7 @@ function Intro() {
           </div>
 
           <div className="mt-12 text-slate-500 text-sm">
-            Scroll ↓
+            Scroll to see projects↓
           </div>
         </div>
 

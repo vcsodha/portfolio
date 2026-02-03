@@ -71,40 +71,44 @@ function ProjectMoments() {
 
       <div className="grid lg:grid-cols-2 gap-10 mb-24">
         <FeaturedProject
-          title="Market Data Platform"
-          desc="Backend system for ingesting simulated market tick data and exposing analytics APIs."
+          title="Data Integration, Analytics & Monitoring Platform"
+          desc="Scalable backend system for ingesting, processing, and analyzing structured data through production-style REST APIs."
           bullets={[
-            "Schema validation and rate-limited ingestion endpoints",
-            "Time-series data model indexed by symbol and timestamp",
-            "Rolling averages, deltas, and volatility over configurable windows",
-            "Background processing and alerting for stability",
+           "Designed scalable backend pipelines to ingest, process, and analyze data using Python and PostgreSQL",
+           "Built REST APIs supporting multi-stage workflows with strict correctness and validation guarantees",
+           "Implemented rolling averages, deltas, and anomaly signals to monitor system behavior under varying data volumes",
+           "Ensured data integrity, reproducibility, and reliability across production-like workloads",
           ]}
-          tech="Python · FastAPI · PostgreSQL · Docker"
+          tech="Python · FastAPI · PostgreSQL · SQL · Docker"
+
           link="https://github.com/vcsodha/market_data_platform"
         />
 
         <FeaturedProject
-          title="AI Chatbot (Local LLM)"
-          desc="Stateful chatbot running entirely on a locally hosted LLM with persistent sessions."
+          title="AI Chatbot Platform"
+          desc="Backend-driven chatbot platform with secure session handling and production-safe API workflows."
           bullets={[
-            "Explicit chat and message modeling for session persistence",
-            "Provider-agnostic LLM interface (local, mock, external)",
-            "Containerized deployment with public UI",
+            "Built backend infrastructure supporting secure session handling and persistent conversations",
+            "Designed provider-agnostic service interfaces enabling safe integration with multiple model backends",
+            "Exposed production-style APIs for chat workflows and message handling",
+            "Containerized services using Docker to ensure reliable and reproducible deployments",
           ]}
           tech="Python · Flask · SQLite · Docker · Ollama"
+
           link="https://github.com/vcsodha/ai-chatbot-flask"
           demo="https://ai-chatbot-flask-5p5h.onrender.com/ui"
         />
 
         <FeaturedProject
-          title="Resume Analyzer"
-          desc="Full-stack web app that evaluates resume–job fit using skill extraction, weighted scoring, and actionable feedback."
+          title="Resume Match Analyzer"
+          desc="Full-stack web application that analyzes resume–job alignment using structured skill extraction and scoring."
           bullets={[
-            "Extracts and normalizes technical skills from resumes and job descriptions",
-            "Weighted scoring based on required vs preferred skills",
-            "Generates improvement suggestions and downloadable PDF reports",
+            "Built API-driven workflows to extract and normalize technical skills from resumes and job descriptions",
+            "Implemented weighted scoring logic to compare required and preferred skills",
+            "Generated structured feedback and downloadable reports to highlight gaps and improvement areas",
           ]}
-          tech="Python · FastAPI · JavaScript · React · HTML · CSS · Groq LLM API"
+          tech="Python · FastAPI · JavaScript · React · HTML · CSS · LLM API"
+
           link="https://github.com/vcsodha/resume_analyzer"
           demo="https://resume-analyzer-2r8n.onrender.com"
         />
