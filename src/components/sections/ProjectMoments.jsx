@@ -97,7 +97,7 @@ function ProjectMoments() {
         />
 
         <FeaturedProject
-          title="Resume Match Analyzer"
+          title="Resume Analyzer"
           desc="Full-stack web app that evaluates resume–job fit using skill extraction, weighted scoring, and actionable feedback."
           bullets={[
             "Extracts and normalizes technical skills from resumes and job descriptions",
