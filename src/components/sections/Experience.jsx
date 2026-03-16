@@ -3,29 +3,38 @@ import Section from "../Section"
 function Experience() {
   const items = [
     {
-      role: "Engineering Intern",
+      role: "Data Engineer",
       company: "Bitmechanix Solutions",
-      place: "Ahmedabad, India",
-      period: "Jan 2023 – Apr 2023",
+      place: "Gujarat, India",
+      period: "Jan 2023 – Dec 2023",
       bullets: [
-        "Instrumented runtime and usage metrics to identify performance bottlenecks and feature adoption trends.",
-        "Built backend workflows and automation tooling supporting production systems and internal operations.",
-        "Partnered with engineers and cross-functional stakeholders to design and iterate on internal tools.",
-        "Supported production workflows by monitoring services, debugging runtime issues, and iterating post-deployment.",
-        "Contributed to a multi-service codebase by making changes safely through testing, debugging, and monitoring.",
-        "Contributed to ~14.5 hours/week productivity gains and ~9.5% operational cost reduction through workflow improvements.",
+        "Engineered automated Python ETL pipelines and Nginx-backed services, reducing manual entry by 33%. ",
+        "Optimized PostgreSQL query execution and schema design, ensuring sub-second response for distributed data tasks.",
+        "Streamlined deployment by implementing CI/CD automation and build pipelines, reducing production rollout time by 18%.",
+        " Implemented custom observability metrics and structured logging to resolve service bottlenecks 26% faster.",
       ],
     },
     {
-      role: "Developer Intern",
-      company: "AceSoftex",
-      place: "Rajkot, India",
-      period: "Jun 2022 – Jul 2022",
+      role: "Software Engineer",
+      company: "Wings Tech Solution",
+      place: "Gujarat, India",
+      period: "Aug 2022 – Dec 2022",
       bullets: [
-        "Implemented feature updates and production bug fixes across backend services and internal web interfaces.",
-        "Worked with JavaScript, Node.js, and MySQL to improve API behavior, stability, and error handling.",
-        "Debugged REST endpoints and edge cases, improving reliability through input validation and safer flows.",
-        "Participated in team discussions and code reviews while following collaborative development workflows.",
+        "Developed REST APIs and web services in Python and Java, supporting external partner integrations.",
+        "Enhanced application stability through defensive programming and rigorous validation/debugging processes.",
+        "Collaborated on refactoring legacy codebases, improving system reliability and scalability by 15%.",
+        "Engineered multi-threaded data processing tasks in Java to handle large-scale partner integrations, ensuring thread safety and data integrity.",
+      ],
+    },
+    {
+      role: "Software Engineer Intern",
+      company: "AceSoftex",
+      place: "Gujarat, India",
+      period: "Jun 2022 – Aug 2022",
+      bullets: [
+        "Built backend feature enhancements for API-driven applications using Node.js and MySQL, ensuring scalability for growing user datasets.",
+        "Performed validation and debugging for RESTful services, identifying edge-case vulnerabilities and improving overall application stability.",
+        "Refactored database queries to improve data retrieval logic, resulting in a noticeable reduction in average API response latency",
       ],
     },
   ]
@@ -35,7 +44,7 @@ function Experience() {
       <div className="mb-14">
         <h2 className="text-4xl font-bold mb-4">Experience</h2>
         <p className="text-slate-300 max-w-2xl">
-          Internships where I worked on backend workflows, reliability, and data-driven process improvements in production-style environments.
+          Professional experience in Python, Golang, and Java. Proven track record in developing scalable web services, optimizing distributed systems, and implementing CI/CD automation. Adept at performance tuning and troubleshooting in Linux/Windows environments.
         </p>
       </div>
 

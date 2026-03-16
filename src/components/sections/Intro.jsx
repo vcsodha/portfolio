@@ -13,7 +13,7 @@ function Intro() {
             transition={{ delay: 0.15 }}
             className="text-sm uppercase tracking-[0.25em] text-sky-400/90 mb-6"
           >
-            SOFTWARE ENGINEER · BACKEND & FULL-STACK · SYSTEMS · APPLIED AI
+            SOFTWARE ENGINEER · DATA ENGINEER · BACKEND & FULL-STACK · SYSTEMS · APPLIED AI 
           </motion.p>
 
           <motion.h1
@@ -39,7 +39,7 @@ function Intro() {
             development, databases, system design, and applied machine learning
             through hands-on work.
             <br /><br />
-            I'm particularly interested in backend and full-stack engineering,
+            I'm particularly interested in data engineering, backend and full-stack engineering,
             where APIs, data, and thoughtful architecture come together to create
             dependable software. Alongside core engineering, I enjoy exploring
             applied AI and LLMs, with a focus on building intelligent features

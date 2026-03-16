@@ -4,11 +4,11 @@ function Skills() {
   const groups = [
     {
       title: "Languages",
-      items: ["Java", "Python", "JavaScript", "TypeScript"],
+      items: ["Java", "Python", "Golang", "C",  "JavaScript", "TypeScript" , "JavaScript" , "SQL"],
     },
     {
       title: "Backend & APIs",
-      items: ["REST APIs", "FastAPI", "Flask", "Django", "Node.js"],
+      items: ["REST APIs", "FastAPI", "Flask", "Django", "Node.js" , "Spring Boot"],
     },
     {
       title: "Databases",
@@ -23,6 +23,7 @@ function Skills() {
       items: [
         "Data Structures & Algorithms",
         "Object-Oriented Programming",
+        "Distributed Systems",
         "Computer Networks",
         "System Design",
       ],

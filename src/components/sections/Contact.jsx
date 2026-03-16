@@ -7,7 +7,7 @@ function Contact() {
         <div>
           <h2 className="text-4xl font-bold mb-4">Contact</h2>
           <p className="text-slate-300 max-w-xl">
-            If you’re hiring for backend / full-stack / software roles, I’d love to connect.
+            If you’re hiring for data engineering / backend / full-stack / software roles, I’d love to connect.
             The fastest way is email.
           </p>
 
