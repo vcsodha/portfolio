@@ -3,27 +3,14 @@ import Section from "../Section"
 function Experience() {
   const items = [
     {
-      role: "Data Engineer",
+      role: "Engineering Intern",
       company: "Bitmechanix Solutions",
-      place: "Gujarat, India",
+      place: "India",
       period: "Jan 2023 – Dec 2023",
       bullets: [
-        "Engineered automated Python ETL pipelines and Nginx-backed services, reducing manual entry by 33%. ",
-        "Optimized PostgreSQL query execution and schema design, ensuring sub-second response for distributed data tasks.",
-        "Streamlined deployment by implementing CI/CD automation and build pipelines, reducing production rollout time by 18%.",
-        " Implemented custom observability metrics and structured logging to resolve service bottlenecks 26% faster.",
-      ],
-    },
-    {
-      role: "Software Engineer",
-      company: "Wings Tech Solution",
-      place: "Gujarat, India",
-      period: "Aug 2022 – Dec 2022",
-      bullets: [
-        "Developed REST APIs and web services in Python and Java, supporting external partner integrations.",
-        "Enhanced application stability through defensive programming and rigorous validation/debugging processes.",
-        "Collaborated on refactoring legacy codebases, improving system reliability and scalability by 15%.",
-        "Engineered multi-threaded data processing tasks in Java to handle large-scale partner integrations, ensuring thread safety and data integrity.",
+        "Optimized backend data processing workflows and automated pipelines using C and shell scripting, improving efficiency and reproducibility in production simulation systems ",
+        "Implemented structured logging, monitoring, and validation checks, enhancing observability and reducing debugging time",
+        "Analyzed runtime performance and system bottlenecks, contributing to ~14.5 hours/week productivity improvement and ~9.5% operational cost reduction while collaborating with cross-functional teams",
       ],
     },
     {
@@ -32,9 +19,9 @@ function Experience() {
       place: "Gujarat, India",
       period: "Jun 2022 – Aug 2022",
       bullets: [
-        "Built backend feature enhancements for API-driven applications using Node.js and MySQL, ensuring scalability for growing user datasets.",
-        "Performed validation and debugging for RESTful services, identifying edge-case vulnerabilities and improving overall application stability.",
-        "Refactored database queries to improve data retrieval logic, resulting in a noticeable reduction in average API response latency",
+        "Developed and enhanced backend APIs using Node.js, JavaScript, and MySQL in production-style environments",
+        "Diagnosed API performance issues and implemented validation checks to improve service reliability",
+        "Tested and debugged backend services to identify performance bottlenecks and ensure stable API behavior",
       ],
     },
   ]
